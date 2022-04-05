@@ -1,4 +1,4 @@
-**ArtemisLite 2021**
+# ArtemisLite 2021
 
 A University group project to create a text based java game. Themed around NASA's Artemis space exploration mission.
 
